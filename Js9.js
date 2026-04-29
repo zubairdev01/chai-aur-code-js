@@ -32,6 +32,11 @@ else {
 
 
 
+// git commit -m "add all js practice files"
+// for push code
+
+
+
 
 
 
