@@ -10,7 +10,7 @@ cart.push("Keyboard");
 // User removes last item
 cart.pop();
 
-console.log("Cart:", cart.join(", "));
+// console.log("Cart:", cart.join(", "));
 
 // Check if item exists before adding
 if (!cart.includes("Laptop")) {
